@@ -1,0 +1,11 @@
+# Local secret files
+*.tfvars
+*.tfvars.json
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Local directory cache
+.terraform/
+.terraform.lock.hcl
